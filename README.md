@@ -1,7 +1,7 @@
-# credit_card_fraud_detection
+# [ CLICK HERE TO ACCESS credit_card_fraud_detection PYTHON CODE](https://github.com/thandofana/credit_card_fraud_detection/blob/main/credit_card_fraud_detection_model.ipynb)
 
 
-# Overview 
+# WELCOME TO FRAUD DETECTION  PROJECT READ_ME FILE. Project details below
 
 When it comes to Fraud decisons you need to results fast. Machine
 learning takes milliseconds to asses and make real time decisions.
